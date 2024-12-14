@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="UseCase\Diagnoses\Command\" />
+    <Folder Include="UseCase\Diagnoses\Queries\" />
+    <Folder Include="UseCase\DietaryPlans\Command\" />
+    <Folder Include="UseCase\DietaryPlans\Queries\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\dominio\Domain.csproj" />
+  </ItemGroup>
+
+</Project>

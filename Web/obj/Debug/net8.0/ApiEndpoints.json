@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Web.Controllers.AnalysisRequestController",
+    "Method": "CreateAnalysisRequest",
+    "RelativePath": "api/AnalysisRequest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.AnalysisRequest.Command.CreateAnalysisRequest.CreateAnalysisRequestCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.NutritionistControllerr",
+    "Method": "CreateNutritionist",
+    "RelativePath": "api/NutritionistControllerr",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.UseCase.Nutritionists.Command.CreateNutritionist.Application.Nutritionists.Commands.CreateNutritionistCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web.Controllers.NutritionistControllerr",
+    "Method": "GetNutritionist",
+    "RelativePath": "api/NutritionistControllerr",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
