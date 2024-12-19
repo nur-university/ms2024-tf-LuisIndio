@@ -17,7 +17,7 @@ namespace Infrastructure.DomainModel.Config
             builder.HasKey(a => a.Id);
             builder.Property(a => a.Id).HasColumnName("AnalysisRequestId");
             builder.Property(a => a.PatientId).HasColumnName("PatientId");
-            builder.Property(a => a.NutritionistId).HasColumnName("NutritionitId");
+            builder.Property(a => a.NutritionistId).HasColumnName("NutritionistId");
             builder.Property(a => a.Date).HasColumnName("Date");
             builder.Property(a => a.Status).HasColumnName("Status");
 

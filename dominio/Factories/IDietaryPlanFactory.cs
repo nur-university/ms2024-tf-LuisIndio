@@ -15,7 +15,7 @@ namespace Domain.Factories
             string name,
             PlanDuration duration,
             DateTime createdDate,
-            List<AssignedRecipe> recipes);
+            List<Guid> recipes);
     }
 
 }

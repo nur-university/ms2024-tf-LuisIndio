@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Domain.ValueObjects;
+using Inventory.Domain.Abstractions;
 
 namespace Domain.Model
 {
-    public class Nutritionist
+    public class Nutritionist : AggregateRoot
     {
         public Guid Id { get; private set; }
         public FullName FullName { get; private set; }
@@ -32,7 +33,10 @@ namespace Domain.Model
 
             Specialization = newSpecialization;
         }
-
+        public void UpdateFullName(FullName fullname)
+        {
+            FullName = fullname;
+        }
         public void UpdateStatus(NutritionistStatus newStatus)
         {
             Status = newStatus;

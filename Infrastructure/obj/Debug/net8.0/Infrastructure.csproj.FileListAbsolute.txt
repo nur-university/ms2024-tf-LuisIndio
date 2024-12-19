@@ -11,7 +11,6 @@ C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutrition
 C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
 C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
 C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
 C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
 C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
 C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll

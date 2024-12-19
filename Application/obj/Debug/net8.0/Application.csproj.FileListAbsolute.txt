@@ -8,7 +8,6 @@ C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutrition
 C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
 C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
 C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
-C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\Application\obj\Debug\net8.0\Application.sourcelink.json
 C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
 C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\Application\obj\Debug\net8.0\Application.dll
 C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\Application\obj\Debug\net8.0\refint\Application.dll

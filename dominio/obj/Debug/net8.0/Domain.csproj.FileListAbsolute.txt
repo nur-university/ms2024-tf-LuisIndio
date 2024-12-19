@@ -6,7 +6,6 @@ C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutrition
 C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\dominio\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
 C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\dominio\obj\Debug\net8.0\Domain.AssemblyInfo.cs
 C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\dominio\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
-C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\dominio\obj\Debug\net8.0\Domain.sourcelink.json
 C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\dominio\obj\Debug\net8.0\Domain.dll
 C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\dominio\obj\Debug\net8.0\refint\Domain.dll
 C:\Users\LUIS INDIO\Desktop\DiplomadoMicroservicios\microservicie-plan-nutritional\dominio\obj\Debug\net8.0\Domain.pdb

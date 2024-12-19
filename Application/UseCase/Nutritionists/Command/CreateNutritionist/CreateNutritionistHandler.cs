@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Application.UseCase.Nutritionists.Command.CreateNutritionist.Application.Nutritionists.Commands;
 using Domain.Factories;
 using Domain.Model;
 using Domain.Repositories;

@@ -9,6 +9,7 @@ namespace Domain.Repositories
 {
     public interface INutritionistRepository
     {
+        
         Task AddAsync(Nutritionist nutritionist);
         Task UpdateAsync(Nutritionist nutritionist);
         Task DeleteAsync(Guid id);

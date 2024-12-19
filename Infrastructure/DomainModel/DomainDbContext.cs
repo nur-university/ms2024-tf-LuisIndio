@@ -14,6 +14,10 @@ namespace Infrastructure.DomainModel
     {
         public DbSet<Nutritionist> Nutritionist { get; set; }
         public DbSet<AnalysisRequest> AnalysisRequest { get; set; }
+
+        public DbSet<Consultation> Consultation { get; set; }
+        public DbSet<Diagnosis> Diagnosis { get; set; }
+
         public DomainDbContext(DbContextOptions<DomainDbContext> options) : base(options)
         { }
     protected override void OnModelCreating(ModelBuilder modelBuilder)

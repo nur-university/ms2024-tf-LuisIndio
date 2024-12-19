@@ -33,9 +33,8 @@ namespace Infrastructure.Migrations
                         .HasColumnType("datetime(6)")
                         .HasColumnName("Date");
 
-                    b.Property<string>("NutritionistId")
-                        .IsRequired()
-                        .HasColumnType("longtext")
+                    b.Property<Guid>("NutritionistId")
+                        .HasColumnType("char(36)")
                         .HasColumnName("NutritionistId");
 
                     b.Property<string>("Status")
@@ -43,14 +42,77 @@ namespace Infrastructure.Migrations
                         .HasColumnType("longtext")
                         .HasColumnName("Status");
 
-                    b.Property<string>("patientId")
-                        .IsRequired()
-                        .HasColumnType("longtext")
+                    b.Property<Guid>("patientId")
+                        .HasColumnType("char(36)")
                         .HasColumnName("PatientId");
 
                     b.HasKey("Id");
 
                     b.ToTable("AnalysisRequest");
+                });
+
+            modelBuilder.Entity("Infrastructure.StoredModel.Entities.ConsultationModel", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("char(36)")
+                        .HasColumnName("ConsultationId");
+
+                    b.Property<Guid?>("AppointmentId")
+                        .HasColumnType("char(36)")
+                        .HasColumnName("AppointmentId");
+
+                    b.Property<DateTime>("Date")
+                        .HasColumnType("datetime(6)")
+                        .HasColumnName("Date");
+
+                    b.Property<Guid>("NutritionistId")
+                        .HasColumnType("char(36)")
+                        .HasColumnName("NutritionistId");
+
+                    b.Property<Guid>("PatientId")
+                        .HasColumnType("char(36)")
+                        .HasColumnName("PatientId");
+
+                    b.Property<string>("Status")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("varchar(50)")
+                        .HasColumnName("Status");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Consultation");
+                });
+
+            modelBuilder.Entity("Infrastructure.StoredModel.Entities.DiagnosisModel", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("char(36)")
+                        .HasColumnName("DiagnosisId");
+
+                    b.Property<DateTime>("Date")
+                        .HasColumnType("datetime(6)")
+                        .HasColumnName("Date");
+
+                    b.Property<string>("Details")
+                        .IsRequired()
+                        .HasMaxLength(1000)
+                        .HasColumnType("varchar(1000)")
+                        .HasColumnName("Details");
+
+                    b.Property<Guid>("PatientId")
+                        .HasColumnType("char(36)")
+                        .HasColumnName("PatientId");
+
+                    b.Property<Guid>("ProfessionalId")
+                        .HasColumnType("char(36)")
+                        .HasColumnName("ProfessionalId");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Diagnosis");
                 });
 
             modelBuilder.Entity("Infrastructure.StoredModel.Entities.NutritionistModel", b =>

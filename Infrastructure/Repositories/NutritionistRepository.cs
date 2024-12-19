@@ -38,7 +38,7 @@ namespace Infrastructure.Repositories
 
         public async Task<Nutritionist> GetByIdAsync(Guid id)
         {
-            return await _context.Nutritionist.FindAsync(id);
+           return await _context.Nutritionist.FindAsync(id);
         }
 
         public Task<IReadOnlyList<Nutritionist>> GetByStatusAsync(NutritionistStatus status)

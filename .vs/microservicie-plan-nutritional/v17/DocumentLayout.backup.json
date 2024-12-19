@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13390857-15D0-49FA-8455-9EB9188C16EE}|Web\\Web.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\web\\controllers\\consultationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13390857-15D0-49FA-8455-9EB9188C16EE}|Web\\Web.csproj|solutionrelative:web\\controllers\\consultationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A20502-5AB7-49D1-85FF-AFFF906C43A0}|Application\\Application.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\application\\usecase\\consultations\\command\\createconsultation\\createconsultationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A20502-5AB7-49D1-85FF-AFFF906C43A0}|Application\\Application.csproj|solutionrelative:application\\usecase\\consultations\\command\\createconsultation\\createconsultationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13390857-15D0-49FA-8455-9EB9188C16EE}|Web\\Web.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\web\\controllers\\nutritionistcontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13390857-15D0-49FA-8455-9EB9188C16EE}|Web\\Web.csproj|solutionrelative:web\\controllers\\nutritionistcontrollerr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13390857-15D0-49FA-8455-9EB9188C16EE}|Web\\Web.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\web\\controllers\\analysisrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13390857-15D0-49FA-8455-9EB9188C16EE}|Web\\Web.csproj|solutionrelative:web\\controllers\\analysisrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\infrastructure\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\infrastructure\\storedmodel\\entities\\consultationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\storedmodel\\entities\\consultationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\infrastructure\\repositories\\consultationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\consultationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\infrastructure\\domainmodel\\domaindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\domainmodel\\domaindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\infrastructure\\domainmodel\\config\\consultationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\domainmodel\\config\\consultationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\infrastructure\\domainmodel\\config\\diagnosisconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\domainmodel\\config\\diagnosisconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\infrastructure\\domainmodel\\config\\analysisrequestconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\domainmodel\\config\\analysisrequestconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\infrastructure\\storedmodel\\storeddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\storedmodel\\storeddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\infrastructure\\handler\\consultation\\getconsultationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8D7475-1B28-4420-A73D-761001EF5B47}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\handler\\consultation\\getconsultationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A20502-5AB7-49D1-85FF-AFFF906C43A0}|Application\\Application.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\application\\usecase\\consultations\\queries\\getconsultationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A20502-5AB7-49D1-85FF-AFFF906C43A0}|Application\\Application.csproj|solutionrelative:application\\usecase\\consultations\\queries\\getconsultationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A20502-5AB7-49D1-85FF-AFFF906C43A0}|Application\\Application.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\application\\usecase\\consultations\\command\\createconsultation\\createconsultationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A20502-5AB7-49D1-85FF-AFFF906C43A0}|Application\\Application.csproj|solutionrelative:application\\usecase\\consultations\\command\\createconsultation\\createconsultationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A20502-5AB7-49D1-85FF-AFFF906C43A0}|Application\\Application.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\application\\eventhandlers\\sendemailanalysisrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A20502-5AB7-49D1-85FF-AFFF906C43A0}|Application\\Application.csproj|solutionrelative:application\\eventhandlers\\sendemailanalysisrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13632E-4FDC-437F-86B9-83CC8AE3287B}|dominio\\Domain.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\dominio\\events\\analysisrequests\\analysisrequestcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D13632E-4FDC-437F-86B9-83CC8AE3287B}|dominio\\Domain.csproj|solutionrelative:dominio\\events\\analysisrequests\\analysisrequestcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13632E-4FDC-437F-86B9-83CC8AE3287B}|dominio\\Domain.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\dominio\\model\\analysisrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D13632E-4FDC-437F-86B9-83CC8AE3287B}|dominio\\Domain.csproj|solutionrelative:dominio\\model\\analysisrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13632E-4FDC-437F-86B9-83CC8AE3287B}|dominio\\Domain.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\dominio\\valueobjects\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D13632E-4FDC-437F-86B9-83CC8AE3287B}|dominio\\Domain.csproj|solutionrelative:dominio\\valueobjects\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13632E-4FDC-437F-86B9-83CC8AE3287B}|dominio\\Domain.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\dominio\\repositories\\iconsultationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D13632E-4FDC-437F-86B9-83CC8AE3287B}|dominio\\Domain.csproj|solutionrelative:dominio\\repositories\\iconsultationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13632E-4FDC-437F-86B9-83CC8AE3287B}|dominio\\Domain.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\dominio\\factories\\consultations\\iconsultationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D13632E-4FDC-437F-86B9-83CC8AE3287B}|dominio\\Domain.csproj|solutionrelative:dominio\\factories\\consultations\\iconsultationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13632E-4FDC-437F-86B9-83CC8AE3287B}|dominio\\Domain.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\dominio\\factories\\consultations\\consultationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D13632E-4FDC-437F-86B9-83CC8AE3287B}|dominio\\Domain.csproj|solutionrelative:dominio\\factories\\consultations\\consultationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13632E-4FDC-437F-86B9-83CC8AE3287B}|dominio\\Domain.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\dominio\\model\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D13632E-4FDC-437F-86B9-83CC8AE3287B}|dominio\\Domain.csproj|solutionrelative:dominio\\model\\consultation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13632E-4FDC-437F-86B9-83CC8AE3287B}|dominio\\Domain.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\dominio\\model\\dietaryplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D13632E-4FDC-437F-86B9-83CC8AE3287B}|dominio\\Domain.csproj|solutionrelative:dominio\\model\\dietaryplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A20502-5AB7-49D1-85FF-AFFF906C43A0}|Application\\Application.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\application\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A20502-5AB7-49D1-85FF-AFFF906C43A0}|Application\\Application.csproj|solutionrelative:application\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A20502-5AB7-49D1-85FF-AFFF906C43A0}|Application\\Application.csproj|c:\\users\\luis indio\\desktop\\diplomadomicroservicios\\microservicie-plan-nutritional\\application\\dto\\consultationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A20502-5AB7-49D1-85FF-AFFF906C43A0}|Application\\Application.csproj|solutionrelative:application\\dto\\consultationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NutritionistControllerr.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Web\\Controllers\\NutritionistControllerr.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\NutritionistControllerr.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Web\\Controllers\\NutritionistControllerr.cs",
+              "RelativeToolTip": "Web\\Controllers\\NutritionistControllerr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:53:58.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnalysisRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Web\\Controllers\\AnalysisRequestController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\AnalysisRequestController.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Web\\Controllers\\AnalysisRequestController.cs",
+              "RelativeToolTip": "Web\\Controllers\\AnalysisRequestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:53:53.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:52:31.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DiagnosisConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\DomainModel\\Config\\DiagnosisConfig.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DomainModel\\Config\\DiagnosisConfig.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\DomainModel\\Config\\DiagnosisConfig.cs",
+              "RelativeToolTip": "Infrastructure\\DomainModel\\Config\\DiagnosisConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:52:22.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DomainDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\DomainModel\\DomainDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DomainModel\\DomainDbContext.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\DomainModel\\DomainDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\DomainModel\\DomainDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:51:41.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsultationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\Repositories\\ConsultationRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ConsultationRepository.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\Repositories\\ConsultationRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ConsultationRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:42:11.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateConsultationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Application\\UseCase\\Consultations\\Command\\CreateConsultation\\CreateConsultationHandler.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\Consultations\\Command\\CreateConsultation\\CreateConsultationHandler.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Application\\UseCase\\Consultations\\Command\\CreateConsultation\\CreateConsultationHandler.cs",
+              "RelativeToolTip": "Application\\UseCase\\Consultations\\Command\\CreateConsultation\\CreateConsultationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:40:31.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsultationController.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Web\\Controllers\\ConsultationController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\ConsultationController.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Web\\Controllers\\ConsultationController.cs",
+              "RelativeToolTip": "Web\\Controllers\\ConsultationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:42:31.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnalysisRequestConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\DomainModel\\Config\\AnalysisRequestConfig.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DomainModel\\Config\\AnalysisRequestConfig.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\DomainModel\\Config\\AnalysisRequestConfig.cs",
+              "RelativeToolTip": "Infrastructure\\DomainModel\\Config\\AnalysisRequestConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:52:17.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetConsultationQuery.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Application\\UseCase\\Consultations\\Queries\\GetConsultationQuery.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\Consultations\\Queries\\GetConsultationQuery.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Application\\UseCase\\Consultations\\Queries\\GetConsultationQuery.cs",
+              "RelativeToolTip": "Application\\UseCase\\Consultations\\Queries\\GetConsultationQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:40:46.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateConsultationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Application\\UseCase\\Consultations\\Command\\CreateConsultation\\CreateConsultationCommand.cs",
+              "RelativeDocumentMoniker": "Application\\UseCase\\Consultations\\Command\\CreateConsultation\\CreateConsultationCommand.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Application\\UseCase\\Consultations\\Command\\CreateConsultation\\CreateConsultationCommand.cs",
+              "RelativeToolTip": "Application\\UseCase\\Consultations\\Command\\CreateConsultation\\CreateConsultationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:40:30.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsultationModel.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\StoredModel\\Entities\\ConsultationModel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StoredModel\\Entities\\ConsultationModel.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\StoredModel\\Entities\\ConsultationModel.cs",
+              "RelativeToolTip": "Infrastructure\\StoredModel\\Entities\\ConsultationModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:42:17.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\Extensions.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Extensions.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\Extensions.cs",
+              "RelativeToolTip": "Infrastructure\\Extensions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:42:24.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SendEmailAnalysisRequest.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Application\\EventHandlers\\SendEmailAnalysisRequest.cs",
+              "RelativeDocumentMoniker": "Application\\EventHandlers\\SendEmailAnalysisRequest.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Application\\EventHandlers\\SendEmailAnalysisRequest.cs",
+              "RelativeToolTip": "Application\\EventHandlers\\SendEmailAnalysisRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:40:17.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsultationConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\DomainModel\\Config\\ConsultationConfig.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DomainModel\\Config\\ConsultationConfig.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\DomainModel\\Config\\ConsultationConfig.cs",
+              "RelativeToolTip": "Infrastructure\\DomainModel\\Config\\ConsultationConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:41:54.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AnalysisRequestCreated.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\dominio\\Events\\AnalysisRequests\\AnalysisRequestCreated.cs",
+              "RelativeDocumentMoniker": "dominio\\Events\\AnalysisRequests\\AnalysisRequestCreated.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\dominio\\Events\\AnalysisRequests\\AnalysisRequestCreated.cs",
+              "RelativeToolTip": "dominio\\Events\\AnalysisRequests\\AnalysisRequestCreated.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:41:30.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AnalysisRequest.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\dominio\\Model\\AnalysisRequest.cs",
+              "RelativeDocumentMoniker": "dominio\\Model\\AnalysisRequest.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\dominio\\Model\\AnalysisRequest.cs",
+              "RelativeToolTip": "dominio\\Model\\AnalysisRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:40:09.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetConsultationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\Handler\\Consultation\\GetConsultationHandler.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Handler\\Consultation\\GetConsultationHandler.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\Handler\\Consultation\\GetConsultationHandler.cs",
+              "RelativeToolTip": "Infrastructure\\Handler\\Consultation\\GetConsultationHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:42:03.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StoredDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\StoredModel\\StoredDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StoredModel\\StoredDbContext.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Infrastructure\\StoredModel\\StoredDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\StoredModel\\StoredDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:42:27.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FullName.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\dominio\\ValueObjects\\FullName.cs",
+              "RelativeDocumentMoniker": "dominio\\ValueObjects\\FullName.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\dominio\\ValueObjects\\FullName.cs",
+              "RelativeToolTip": "dominio\\ValueObjects\\FullName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:47:57.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IConsultationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\dominio\\Repositories\\IConsultationRepository.cs",
+              "RelativeDocumentMoniker": "dominio\\Repositories\\IConsultationRepository.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\dominio\\Repositories\\IConsultationRepository.cs",
+              "RelativeToolTip": "dominio\\Repositories\\IConsultationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:41:47.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IConsultationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\dominio\\Factories\\Consultations\\IConsultationFactory.cs",
+              "RelativeDocumentMoniker": "dominio\\Factories\\Consultations\\IConsultationFactory.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\dominio\\Factories\\Consultations\\IConsultationFactory.cs",
+              "RelativeToolTip": "dominio\\Factories\\Consultations\\IConsultationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:47:40.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Consultation.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\dominio\\Model\\Consultation.cs",
+              "RelativeDocumentMoniker": "dominio\\Model\\Consultation.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\dominio\\Model\\Consultation.cs",
+              "RelativeToolTip": "dominio\\Model\\Consultation.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:40:53.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConsultationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\dominio\\Factories\\Consultations\\ConsultationFactory.cs",
+              "RelativeDocumentMoniker": "dominio\\Factories\\Consultations\\ConsultationFactory.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\dominio\\Factories\\Consultations\\ConsultationFactory.cs",
+              "RelativeToolTip": "dominio\\Factories\\Consultations\\ConsultationFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:41:05.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DietaryPlan.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\dominio\\Model\\DietaryPlan.cs",
+              "RelativeDocumentMoniker": "dominio\\Model\\DietaryPlan.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\dominio\\Model\\DietaryPlan.cs",
+              "RelativeToolTip": "dominio\\Model\\DietaryPlan.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:41:41.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Application\\Extensions.cs",
+              "RelativeDocumentMoniker": "Application\\Extensions.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Application\\Extensions.cs",
+              "RelativeToolTip": "Application\\Extensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:40:49.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ConsultationDto.cs",
+              "DocumentMoniker": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Application\\Dto\\ConsultationDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dto\\ConsultationDto.cs",
+              "ToolTip": "C:\\Users\\LUIS INDIO\\Desktop\\DiplomadoMicroservicios\\microservicie-plan-nutritional\\Application\\Dto\\ConsultationDto.cs",
+              "RelativeToolTip": "Application\\Dto\\ConsultationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:40:42.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

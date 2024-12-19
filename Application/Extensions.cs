@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Domain.Factories;
 using Domain.Factories.AnalysisRequests;
+using Domain.Factories.Consultations;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Application
@@ -22,6 +23,8 @@ namespace Application
 
             services.AddSingleton<INutritionistFactory, NutritionistFactory>();
             services.AddSingleton<IAnalysisRequestFactory, AnalysisRequestFactory>();
+            services.AddSingleton<IConsultationFactory, ConsultationFactory>();
+            services.AddSingleton<IDiagnosisFactory, DiagnosisFactory>();
 
             return services;
         }

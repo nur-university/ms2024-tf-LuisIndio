@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Domain.ValueObjects;
+using Inventory.Domain.Abstractions;
 
 namespace Domain.Model
 {
-    public class Diagnosis
+    public class Diagnosis : AggregateRoot
     {
         public Guid Id { get; private set; }
         public Guid PatientId { get; private set; }

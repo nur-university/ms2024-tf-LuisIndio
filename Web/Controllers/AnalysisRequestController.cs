@@ -1,5 +1,6 @@
 ﻿using Application.UseCase.AnalysisRequest.Command.CreateAnalysisRequest;
-using Application.UseCase.Nutritionists.Command.CreateNutritionist.Application.Nutritionists.Commands;
+using Application.UseCase.AnalysisRequest.Queries.GetAnalysisRequest;
+using Application.UseCase.Nutritionists.Queries.GetNutritionist;
 using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -32,5 +33,21 @@ namespace Web.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
             }
         }
-}
+
+        [HttpGet]
+        public async Task<ActionResult> GetNutritionist()
+        {
+            try
+            {
+                var result = await _mediator.Send(new GetAnalysisRequestQuery(""));
+                return Ok(result);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, ex.Message);
+            }
+        }
+
+
+    }
     }

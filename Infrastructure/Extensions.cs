@@ -37,6 +37,8 @@ namespace Infrastructure
 
             services.AddScoped<INutritionistRepository, NutritionistRepository>();
             services.AddScoped<IAnalysisRequestRepository, AnalysisRequestRepository>();
+            services.AddScoped<IConsultationRepository, ConsultationRepository>();
+            services.AddScoped<IDiagnosisRepository, DiagnosisRepository>();
             services.AddScoped<IUnitOfWork, UnitOfWork>();
 
             services.AddAplication();
